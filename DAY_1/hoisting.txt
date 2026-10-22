@@ -1,0 +1,7 @@
+two types hoisting
+1. variable    2. function
+
+uses before initializing
+
+to overcome fuction hoisting -> arrow function
+to overcome variable hoisting-> let
