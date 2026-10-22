@@ -1,0 +1,12 @@
+#prod-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 20px;
+    
+}
+#products {
+    width: 300px;
+    height: 250px;
+    margin: 25px;
+    border: 2px solid black;
+}
